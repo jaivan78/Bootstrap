@@ -27,7 +27,7 @@ html, body {
 .carousel-caption h1{
   font-size: 500%;
   text-transform: uppercase;
-  text-shadow: 1px 1px 15px #000;
+  text-shadow: 1px 1px 15px #008;
 }
 .carousel-caption h3 {
   font-size: 200%;
@@ -45,7 +45,7 @@ html, body {
 }
 .jumbotron {
   padding: 1rem;
-  border-radius: 0;
+  border-radius: 0%;
 }
 .padding {
   padding-bottom: 2rem;
@@ -59,7 +59,7 @@ html, body {
   border-top: 2px solid #b4b4;
   width: 95%;
   margin-top: .3rem;
-  margin-bottom: 1remm;
+  margin-bottom: 1rem;
   }
   .fa-code {
     color: #563d7c;
@@ -180,7 +180,7 @@ hr.light-100 {
   font-size: 160%;
 }
 .social a {
-  font-size: 2rem
+  font-size: 2em
   padding: .7rem;
 }
 /*---Firefox Bug Fix --*/
